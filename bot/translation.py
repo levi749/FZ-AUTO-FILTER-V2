@@ -9,7 +9,7 @@ class Translation(object):
 ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ᴍᴀᴅᴇ ғᴏʀ <b><a href="https://t.me/Film_zone_group">Film Zone</a></b>
 ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ɢɪᴠᴇɴ ᴏ̨ᴜᴇʀʏ ᴀɴᴅ ɢɪᴠᴇs ʟɪɴᴋ ᴛᴏ ᴛʜᴏsᴇ ғɪʟᴇs ᴀs ʙᴜᴛᴛᴏɴs
 
-🕵‍♂ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 <b><a href="https://t.me/diago_x">Diago</a></b>
+🕵‍♂ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ  <b><a href="https://t.me/diago_x">Diago</a></b>
 """    
     
     HELP_TEXT = """
