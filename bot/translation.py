@@ -6,10 +6,10 @@ class Translation(object):
     
       
     START_TEXT = """<b>Hey {}</b>
-ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ᴍᴀᴅᴇ ғᴏʀ <b><a href="https://t.me/Film_zone_group">Film Zone</a></b>
+ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ᴍᴀᴅᴇ ғᴏʀ <b><a href="https://t.me/cl_chatgrp">cinemalokam</a></b>
 ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ɢɪᴠᴇɴ ᴏ̨ᴜᴇʀʏ ᴀɴᴅ ɢɪᴠᴇs ʟɪɴᴋ ᴛᴏ ᴛʜᴏsᴇ ғɪʟᴇs ᴀs ʙᴜᴛᴛᴏɴs
 
- ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ  <b><a href="https://t.me/diago_x">Diago</a></b>
+ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ  <b><a href="https://t.me/Levinomad_TG">JOCKER</a></b>
 """    
     
     HELP_TEXT = """
@@ -51,7 +51,7 @@ class Translation(object):
 
 ○ ғʀᴀᴍᴇᴡᴏʀᴋ  : ᴘʏʀᴏɢʀᴀᴍ
 
-○ ᴄʀᴇᴀᴛᴏʀ     : <a href="https://t.me/diago_x">Diago</a>
+○ ᴄʀᴇᴀᴛᴏʀ     : <a href="https://t.me/Levinomad_TG">Levi</a>
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href="https://github.com/ajmalyaseen/fz-auto-filter-bot-v2">Click Hear</a>
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href="https://t.me/CLALL1">Click Hear</a>
 """
