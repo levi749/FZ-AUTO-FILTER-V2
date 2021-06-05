@@ -142,7 +142,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<b>👇 ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ Qᴜᴇʀy {query}👇\nᴄʜᴏᴏꜱᴇ ᴀɴʏ ʙᴜᴛᴛᴏɴ\n\nꜱʜᴀʀᴇ ᴀɴᴅ ꜱᴜᴘᴘᴏʀᴛ</b>\n<b><a href='https://t.me/Film_zone_channels'>©ꜰɪʟᴍ ᴢᴏɴᴇ</a></b>"
+    text=f"<b>👇 ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ Qᴜᴇʀy {query}👇\nᴄʜᴏᴏꜱᴇ ᴀɴʏ ʙᴜᴛᴛᴏɴ\n\nꜱʜᴀʀᴇ ᴀɴᴅ ꜱᴜᴘᴘᴏʀᴛ</b>\n<b><a href='https://t.me/CL_FILMm'>©ꜰɪʟᴍ ᴢᴏɴᴇ</a></b>"
         
     try:
         await update.message.edit(
@@ -1608,7 +1608,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="https://t.me/AlbertEinstein_TG"
+                    "My Dev ⚡", url="https://t.me/Levinomad_TG"
                 ),
                 
             InlineKeyboardButton
@@ -1639,8 +1639,8 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('⚠️JOIN', url='https://t.me/film_zone_fz'),
-            InlineKeyboardButton('🕵‍♂CREATOR', url='https://t.me/diago_x')
+            InlineKeyboardButton('⚠️JOIN', url='https://t.me/CLALL1'),
+            InlineKeyboardButton('🕵‍♂CREATOR', url='https://t.me/Levinomad_TG')
         ],[
             InlineKeyboardButton('💡HELP', callback_data="help"),
             InlineKeyboardButton('🔐ClOSE', callback_data="close")
