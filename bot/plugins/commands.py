@@ -112,11 +112,11 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/joinchat/YS-WlsUC9nFiOWM0"
+                                    'Developers', url="https://t.me/Levinomad_TG"
                                 ),
                             InlineKeyboardButton
                                 (   
-                                    '🔰SERIES GROUP🔰', url="https://t.me/series_xzone"
+                                    '🔰SERIES GROUP🔰', url="https://t.me/CL_FILMm"
                                 )      
                         ]
                     ]
