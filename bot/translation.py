@@ -51,7 +51,7 @@ class Translation(object):
 
 ○ ғʀᴀᴍᴇᴡᴏʀᴋ  : ᴘʏʀᴏɢʀᴀᴍ
 
-○ ᴄʀᴇᴀᴛᴏʀ     : <a href="https://t.me/diago_x">Diago</a>
+○ ᴄʀᴇᴀᴛᴏʀ     : <a href="https://t.me/Levinomad_TG">Diago</a>
 
 ○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href="https://github.com/ajmalyaseen/fz-auto-filter-bot-v2">Click Hear</a>
 """
