@@ -8,12 +8,12 @@
 
 
 <p align="center">
-  <a href="https://github.com/ajmalyaseen/FZ-AUTO-FILTER-V2">
+  <a href="https://github.com/levi749/Levinomad-Adv_autofilter">
     <img src="https://img.shields.io/github/stars/ajmalyaseen/FZ-AUTO-FILTER-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/ajmalyaseen/FZ-AUTO-FILTER-V2">
+  <a href="https://github.com/levi749/Levinomad-Adv_autofilter">
     <img src="https://img.shields.io/github/forks/ajmalyaseen/FZ-AUTO-FILTER-V2?label=Fork&style=social">
 
   </a>  
